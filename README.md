@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roko Ponjarac</h1>
+<h1 align="center">Hi 👋, I'm Roko</h1>
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science
 
 - 🌱 I’m currently learning **Node.JS and Express**
