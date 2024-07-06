@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Roko</h1>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=Roko03&countColor=%232ccce4&labelStyle=upper" />
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=4C9EF7&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Roko" alt="Typing SVG" />
+  </a>
+</h1>
+
 - 🔭 I’m currently pursuing my Bachelor of Science in Computer Science
 
 - 🌱 I’m currently learning **Node.JS and Express**
