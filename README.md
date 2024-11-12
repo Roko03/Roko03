@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://github.com/Roko03" target="_blank">
+  <a href="https://portfolio-phi-six-33.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
   </a>
 </div>
