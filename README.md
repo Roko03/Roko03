@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nest,next,react,ts,sass" /><br/>
+    <img src="https://skillicons.dev/icons?i=next,react,ts,sass,nest" /><br/>
   </a>
 </div>
 
