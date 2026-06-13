@@ -9,9 +9,7 @@
 
 <div align="center">
   
-  🔭 I’m currently pursuing my Bachelor of Science in Computer Science
-  
-  🌱 I’m currently learning **Node.JS and Express**
+  🔭 I'm currently pursuing my Master's degree in Applied Computing
    
 </div>
 
