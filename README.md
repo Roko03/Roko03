@@ -41,9 +41,6 @@
 <br/>
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com?user=Roko03&theme=react&border_radius=10&card_width=390" alt="GitHub Streak" />
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=roko03&show_icons=true&locale=en&theme=react&border_radius=10&rank_icon=github" alt="readme stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=roko03&hide=HTML,CSS&langs_count=8&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="roko03" />
 </div>
 
 <br/>
