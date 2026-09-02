@@ -4,9 +4,6 @@
 
 I build and maintain product frontends, and work across the rest of the stack when a feature needs it.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponjaracrp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
-
 ---
 
 ### 👨‍💻 About
@@ -42,5 +39,5 @@ I'm at my best dropped into an existing codebase: understanding how it works, ex
 
 ### 📫 Connect with me
 
-- [Email](mailto:ponjaracrp@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponjaracrp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
