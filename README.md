@@ -42,5 +42,5 @@ I'm at my best dropped into an existing codebase: understanding how it works, ex
 
 ### 📫 Connect with me
 
-- **Email** — [ponjaracrp@gmail.com](mailto:ponjaracrp@gmail.com)
-- **LinkedIn** — [roko-ponjarac](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
+- [Email](mailto:ponjaracrp@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
