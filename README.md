@@ -1,51 +1,46 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=4000&pause=1000&color=4C9EF7&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Roko" />
-</div>
+# Roko Ponjarac
 
-<div align="center">
-  
-  🔭 I'm currently pursuing my Master's degree in Applied Computing
-   
-</div>
+**Frontend Developer | React · Next.js · TypeScript | AI-assisted, test-driven workflow**
 
-<br/>
+I build and maintain product frontends, and work across the rest of the stack when a feature needs it.
 
-<div align="center">
-  <a href="mailto:rokoponjarac2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/roko-ponjarac-13712b211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-  <a href="https://portfolio-phi-six-33.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ponjaracrp@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
 
-<hr/>
+---
 
-<h2 align="center">⚒️ Tech stack ⚒️</h3>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,ts,sass,nest" /><br/>
-  </a>
-</div>
+### 👨‍💻 About
 
-<br/>
-<hr/>
+Frontend developer based in Split, Croatia, currently pursuing a Master's in Applied Computing. I started out building full websites in WordPress, moved into React and Next.js, and that's where I do most of my work today.
 
-<h3 align="center">⚡ My GitHub Stats ⚡</h3>
-<br/>
-<div align="center">
-  <img width=390 src="https://streak-stats.demolab.com?user=Roko03&theme=react&border_radius=10&card_width=390" alt="GitHub Streak" />
-</div>
+I'm at my best dropped into an existing codebase: understanding how it works, extending it, and fixing what's broken without adding new problems. I care less about which framework is trending and more about writing code that the next person can actually read.
 
-<br/>
-<hr/>
+---
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=229EF7&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Thanks+for+visiting+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+### 🛠 What I focus on
+
+- **Frontend** — React, Next.js, TypeScript, component architecture, rendering large data sets
+- **Quality** — tests that catch real regressions, readable and maintainable code
+- **Delivery** — shipping to production, Git-based code review
+- **Tooling** — AI-assisted development with Claude Code, plus my own agents and automations for repetitive work
+
+---
+
+### ⚙️ How I work
+
+- I read the existing code before I add to it, so my changes fit what's already there instead of fighting it.
+- I keep pull requests small, so they're actually reviewable and easier to roll back if something goes wrong.
+- I use AI to move faster on the repetitive parts, but I read and understand everything before it ships.
+
+---
+
+### 🧰 Tech stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,next,sass,nest,nodejs,graphql,docker&perline=8" height="40" />
+
+---
+
+### 📫 Connect with me
+
+- **Email** — [ponjaracrp@gmail.com](mailto:ponjaracrp@gmail.com)
+- **LinkedIn** — [roko-ponjarac](https://www.linkedin.com/in/roko-ponjarac-13712b211/)
